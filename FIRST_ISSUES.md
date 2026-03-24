@@ -237,7 +237,7 @@ Create a system with these agents:
 ## 🤝 Need Help?
 
 - Open a [discussion](https://github.com/groovy-web/langchain-multi-agent-example/discussions)
-- Join our [Discord](https://discord.gg/groovy-web)
+- Visit [Groovy Web](https://www.groovyweb.co)
 - Check [existing examples](https://github.com/groovy-web/langchain-multi-agent-example/tree/main/examples)
 
 ---

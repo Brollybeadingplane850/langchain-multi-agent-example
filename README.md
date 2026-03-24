@@ -370,7 +370,7 @@ MIT License - see [LICENSE](./LICENSE)
 
 - [LangChain GitHub](https://github.com/langchain-ai/langchainjs)
 - [LangChain Discord](https://discord.gg/6ADWatUYXR)
-- [Main Groovy Web Docs](https://docs.groovy-web.dev)
+- [Groovy Web - AI-First Engineering](https://www.groovyweb.co/?utm_source=github&utm_medium=readme&utm_campaign=langchain-multi-agent)
 
 ## ⭐ Support
 
